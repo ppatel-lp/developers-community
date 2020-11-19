@@ -944,6 +944,7 @@
     - pagename: IP Whitelisting
   - documentname: Proactive Messaging
     pages:
+    - pagename: WEB
     - pagename: API
 
 - categoryname: Rich Messaging

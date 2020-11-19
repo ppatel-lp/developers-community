@@ -1,3 +1,22 @@
+The permalink is invalid found: proactive-messaging-web.html
+Expected permalink: proactive-messaging-web-web.html 
 
-Number of errors:  0
-Congrats there are no errors in the repo
+
+CURRENT PAGE INFO :  { categoryname: '"Messaging Channels"',
+  documentname: 'Proactive Messaging Web',
+  subfoldername: null,
+  permalink: 'proactive-messaging-web.html',
+  pagename: 'WEB' }
+The permalink is invalid found: proactive-messaging-api.html
+Expected permalink: proactive-messaging-api-api.html 
+
+
+CURRENT PAGE INFO :  { categoryname: '"Messaging Channels"',
+  documentname: 'Proactive Messaging API',
+  subfoldername: null,
+  permalink: 'proactive-messaging-api.html',
+  pagename: 'API' }
+
+Number of errors:  2
+
+ Number of errors:  2
